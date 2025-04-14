@@ -1,6 +1,7 @@
 # odin-recipes
-After off for a while, im gonna resume my lesson on TOP
+After off for a while, im gonna resume my lesson on TOP.
 Im gonna work this project by taking a peek at the lessons sometimes.
 
-Set VScode as the default commit message editor
-Testing it
+Well, this is the result.
+You can find 3 recipes: Baklava, Eggs Benedict, and Falafel. Enjoy!
+All credits goes to the sources.
