@@ -35,3 +35,7 @@ img {
     display: block;
     margin: auto;
 }
+
+div {
+    background-color: rgb(193, 250, 231);
+}
