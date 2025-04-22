@@ -1,7 +1,12 @@
 h1 {
-    color: blue;
-    align: center;
+    color: lightskyblue;
+    text-align: center;
+    margin: 10px;
+    /* margin-top: 10px; customize each margin */
+    border: 10px solid rgb(255, 214, 99);
     padding: 10px;
-    margin: 5px yellow;
-    border: 0px solid red;
+    background-color: lightgoldenrodyellow;
+    /* height: 100px;
+    width: 500px; */
+    /* box-sizing: border-box; force sizing limit to border*/
 }
