@@ -3,40 +3,37 @@ body {
 }
 
 h1 {
-    /* rgb example */
     color: rgb(233, 107, 48);
-}
-
-li {
-    /* hsl example */
-    color: hsl(15, 78%, 61%);
-    background-color: rgb(255, 255, 255);
-    border: 1px solid #ccc;
-    padding: 20px;
-    margin: 20px;
-    display: inline-block;
-}
-
-a {
-    /* hex example */
-    color: #574cf1;
-    display: block;
-}
-
-h1 {
     font-family: Helvetica, serif;
     font-size: 30px;
     text-align: center;
 }
 
-li {
+/* ul {
+    list-style-type: none;
+    padding: 0;
+    margin: auto;
+} */
+
+li {    
+    color: hsl(15, 78%, 61%);
     font-family: Verdana, sans-serif;
     font-size: 20px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 5px 10px;
+    display: inline-block;
 }
 
-a {
+a {    
+    color: #574cf1;
     font-family: "Trebuchet MS", sans-serif;
     font-size: 16px;
+    text-align: center;
+    display: block;
+    margin: 5px;
 }
 
 img {
