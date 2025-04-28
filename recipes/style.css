@@ -15,3 +15,8 @@ h1 {
     width: 500px; */
     /* box-sizing: border-box; force sizing limit to border*/
 }
+
+img {
+    display: block;
+    margin: auto;
+}
