@@ -9,11 +9,12 @@ h1 {
     text-align: center;
 }
 
-/* ul {
+ul {
     list-style-type: none;
     padding: 0;
     margin: auto;
-} */
+    text-align: center;
+}
 
 li {    
     color: hsl(15, 78%, 61%);
