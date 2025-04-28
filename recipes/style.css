@@ -1,10 +1,10 @@
 body{
-    background-color: rgb(218, 252, 250);    
+    background-color: rgb(218, 252, 250);     
 }
 
 h1 {
     color: rgb(233, 107, 48);
-    font-size: 2em;
+    font: bold 2em Verdana, sans-serif;
     text-align: center;
     margin: 10px;
     border: 3px solid rgb(255, 214, 99);
@@ -12,7 +12,6 @@ h1 {
     padding: 5px;
     background-color: lightgoldenrodyellow;
 }
-/* Set h1 in the center */
 
 img {
     display: block;
@@ -21,7 +20,7 @@ img {
 
 h2 {
     color: rgb(233 117 78);
-    font-size: 1.5em;
+    font: bold 1.5em Helvetica, sans-serif;
     text-align: center;
     margin: 5px;
     background-color: white;
@@ -32,7 +31,7 @@ h2 {
 
 h3 {
     color: rgb(233 117 78);
-    font-size: 1.2em;
+    font: bold 1.2em Helvetica, sans-serif;
     text-align: center;
     margin: 5px;
     background-color: white;
@@ -42,7 +41,8 @@ h3 {
 }
 
 .description {
-    font-size: 1em;
+    font: 1em Tahoma, sans-serif;
+    line-height: 1.5;
     background-color: rgb(255, 255, 255);
     border: 1px solid #ccc;
     padding: 5px;
@@ -51,7 +51,8 @@ h3 {
 }
 
 .ingredients {
-    font-size: 1em;
+    font: 1em Tahoma, sans-serif;
+    line-height: 1.5;
     background-color: rgb(255, 255, 255);
     border: 1px solid #ccc;
     padding: 5px;
@@ -62,7 +63,8 @@ h3 {
 }
 
 .steps {
-    font-size: 1em;
+    font: 1em Tahoma, sans-serif;
+    line-height: 1.5;
     background-color: rgb(255, 255, 255);
     border: 1px solid #ccc;
     padding: 5px;
@@ -70,3 +72,6 @@ h3 {
     display: block;
     padding-left: 30px;
 }
+
+/* Set h1 in the center */
+/* Set h3 below h2, not like Ingredients-Falafel */
