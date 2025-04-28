@@ -4,12 +4,13 @@ body{
 
 h1 {
     color: rgb(233, 107, 48);
+    font-size: 2em;
     text-align: center;
     margin: 10px;
     border: 3px solid rgb(255, 214, 99);
     display: inline-block;
     padding: 5px;
-    background-color: lightgoldenrodyellow;    
+    background-color: lightgoldenrodyellow;
 }
 /* Set h1 in the center */
 
@@ -20,6 +21,18 @@ img {
 
 h2 {
     color: rgb(233 117 78);
+    font-size: 1.5em;
+    text-align: center;
+    margin: 5px;
+    background-color: white;
+    border: 3px solid rgb(255, 214, 99);
+    padding: 5px;
+    display: inline-block;
+}
+
+h3 {
+    color: rgb(233 117 78);
+    font-size: 1.2em;
     text-align: center;
     margin: 5px;
     background-color: white;
@@ -29,7 +42,7 @@ h2 {
 }
 
 .description {
-    font-size: 1.1em;
+    font-size: 1em;
     background-color: rgb(255, 255, 255);
     border: 1px solid #ccc;
     padding: 5px;
@@ -38,7 +51,7 @@ h2 {
 }
 
 .ingredients {
-    font-size: 1.1em;
+    font-size: 1em;
     background-color: rgb(255, 255, 255);
     border: 1px solid #ccc;
     padding: 5px;
@@ -49,7 +62,7 @@ h2 {
 }
 
 .steps {
-    font-size: 1.1em;
+    font-size: 1em;
     background-color: rgb(255, 255, 255);
     border: 1px solid #ccc;
     padding: 5px;
