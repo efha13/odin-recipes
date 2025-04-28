@@ -4,17 +4,17 @@ body {
 
 h1 {
     /* rgb example */
-    color: rgb(52, 123, 216);
+    color: rgb(233, 107, 48);
 }
 
 h2 {
     /* hsl example */
-    color: hsl(15, 82%, 56%);
+    color: hsl(15, 78%, 61%);
 }
 
 a {
     /* hex example */
-    color: #1100ff;
+    color: #574cf1;
 }
 
 h1 {
