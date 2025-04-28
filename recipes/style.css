@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(218, 252, 250);
+    background-color: rgb(218, 252, 250);    
 }
 
 h1 {
@@ -7,16 +7,23 @@ h1 {
     text-align: center;
     margin: 10px;
     border: 3px solid rgb(255, 214, 99);
-    box-sizing: content-box;
-    display: block;
+    display: inline-block;
     padding: 5px;
-    background-color: lightgoldenrodyellow;
-    /* height: 100px;
-    width: 500px; */
-    /* box-sizing: border-box; force sizing limit to border*/
+    background-color: lightgoldenrodyellow;    
 }
+/* Set h1 in the center */
 
 img {
     display: block;
     margin: auto;
+}
+
+h2 {
+    color: rgb(233 117 78);
+    text-align: center;
+    margin: 5px;
+    background-color: lightgoldenrodyellow;
+    border: 3px solid rgb(255, 214, 99);   
+    padding: 5px;
+    display: inline-block;
 }
