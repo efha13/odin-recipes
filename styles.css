@@ -10,11 +10,17 @@ h1 {
 li {
     /* hsl example */
     color: hsl(15, 78%, 61%);
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
 }
 
 a {
     /* hex example */
     color: #574cf1;
+    display: block;
 }
 
 h1 {
@@ -38,12 +44,4 @@ img {
     width: 200px;
     display: block;
     margin: auto;
-}
-
-li {
-    background-color: rgb(255, 255, 255);
-    border: 1px solid #ccc;
-    padding: 20px;
-    margin: 20px;
-    display: inline-block;
 }
