@@ -1,3 +1,10 @@
+* {
+    -webkit-box-sizing: border-box; 
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+/* -webkit- and -moz- prefixes are for specific browsers. */
+
 body{
     background-color: rgb(218, 252, 250);
     font: 1em Verdana, sans-serif;
